@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/PRESS.md"><img src="docs/card.jpg" alt="260 TV models · 77 brands · 25 languages · 497 KB launcher. Featured in TechCrunch, TechRadar, Tom's Guide, Mashable, Android Authority, XDA, FlatpanelsHD, It's FOSS, Phandroid, GIGAZINE, Xataka, WinFuture, Frandroid, Macitynet, Techaeris, TechPP and 180 more: 196 articles from 32 countries. Before: stock Google TV home with a sponsored ad. After: the Clean Your TV launcher." width="800"></a>
+  <a href="docs/PRESS.md"><img src="docs/card.jpg" alt="Imagem comparativa do projeto original CleanYourTV (não representa a tela de fábrica da MXQ Pro 4K 5G)" width="800"></a>
 </p>
 
 **The viral tweet:** [x.com/gathint/status/2111379569030939102](https://x.com/gathint/status/2111379569030939102)
@@ -34,6 +34,8 @@ until the 19th; old links work.
 **Official links:** the website is [cleanyour.tv](https://cleanyour.tv) and the code, launcher and
 tools live only in this repo. Other domains using the name, such as cleanyourtv.com, are not run by
 this project ([#1004](https://github.com/Gathin23/cleanyourtv/issues/1004)).
+
+> **Versão MXQ Pro 4K 5G:** esta adaptação foi testada em Android 7.0 (API 24). A imagem comparativa acima pertence ao projeto original e não representa o launcher de fábrica da MXQ. A tela de fábrica correta tem visual azul com opções Online Video, Recommend, Music, My Apps e Local. A versão personalizada usa o CleanYourTV como aplicativo HOME.
 
 ## How it works
 
